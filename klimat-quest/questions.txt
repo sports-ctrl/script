@@ -1,0 +1,74 @@
+GRUND|Vad menas med klimat?|Vädret i ett område under lång tid|Vädret en viss minut|Bara hur varmt det är|Bara vindens hastighet
+GRUND|Vad är väder?|Vind, nederbörd och temperatur vid en viss tid och plats|Genomsnitt av 30 års väder|Växterna i ett område|Jordens olika klimatzoner
+GRUND|Vilka av dessa är nederbörd?|Regn, snö och hagel|Vind, sol och moln|Åska, dimma och vind|Sol, luft och värme
+GRUND|Vad är atmosfären?|Gashöljet runt jorden där luften finns|En stor havsström|Jordens innersta lager|En typ av moln
+GRUND|Vad är växthuseffekten?|Uppvärmning vid jordens yta orsakad av gaser i atmosfären|När ett hav blir till is|När vinden ändrar riktning|När snö blir hagel
+GRUND|Vad betyder avdunsta?|När vätska blir gas|När gas blir till is|När vinden blir starkare|När en flod fryser
+GRUND|Vad är regnskugga?|Område i lä av bergskedja med lite nederbörd|En regnskog nära ekvatorn|Ett moln över havet|En plats där det regnar hela tiden
+GRUND|Vad är ekvatorn?|En tänkt linje halvvägs mellan polerna|Gränsen för midnattssol|En havsström nära Afrika|Området runt Sydpolen
+GRUND|Vad är en havsström?|Stora mängder havsvatten som rör sig i en riktning|Regn som faller över havet|En flod genom skogen|Vatten under marken
+GRUND|Vad är en klimatzon?|Ett stort område med ungefär samma klimat|Ett land med samma språk|Ett hav med varmt vatten|En plats där alla träd är lika
+GRUND|Vilka fyra stora klimatzoner finns?|Tropisk, subtropisk, tempererad och polar|Savann, stäpp, öken och skog|Arktis, Antarktis, Norden och Asien|Regn, snö, hagel och sol
+GRUND|Vad kan påverka en plats klimat?|Läge, höjd och avstånd till havet|Hur många som bor där|Hur många skolor som finns|Vilka hus som byggts
+GRUND|Vad är en polcirkel?|En tänkt gräns för midnattssol och middagsmörker|En gräns för tropiska regnskogar|En linje runt ekvatorn|En gräns mellan två hav
+GRUND|Vad är en vändkrets?|En tänkt cirkel som visar var solen kan stå i zenit|En gräns för tundran|En gräns där snö aldrig faller|En typ av havsström
+TROPISK|Var ligger den tropiska zonen?|Nära ekvatorn|Runt polerna|Bara på Grönland|Bara i norra Europa
+TROPISK|Hur är det ofta i tropiska zonen?|Varmt och fuktigt året runt|Kallt och torrt året runt|Kalla vintrar och svala somrar|Snö och is året runt
+TROPISK|Vilken temperatur anges som vanlig i tropiska zonen?|Nästan alltid över 25 °C|Alltid under 0 °C|Alltid mellan -10 och 0 °C|Alltid exakt 10 °C
+TROPISK|Vilken typ av skog finns ofta i tropisk zon?|Regnskog|Barrskog|Köldöken|Tundra
+TROPISK|Vilket land nämns som exempel på tropisk zon?|Brasilien|Sverige|Kanada|Tyskland
+TROPISK|Vilka klimattyper hör till tropiska zonen?|Regnskogs-, monsun- och savannklimat|Kust-, inland- och polarklimat|Öken-, stäpp- och medelhavsklimat|Bara polar- och kustklimat
+TROPISK|Vad händer under sommarmonsunen?|Fuktig luft blåser från havet och ger kraftiga regn|Vinden blåser från land och det blir torrt|Solen går inte upp på flera dygn|Marken fryser hela året
+TROPISK|Vad händer ofta under vintermonsunen?|Vinden blåser från land mot hav och det blir torrperiod|Fuktig luft från havet ger kraftiga regn|Alla träd tappar sina löv|Det blir midnattssol
+TROPISK|Vad är en monsunvind enligt Ordkollen?|Vind som blåser över östra Asien och Indiska oceanen|Vind bara vid polerna|Vind som alltid blåser uppför berg|Vind i norra Europa
+TROPISK|Vad är luftfuktighet?|Mängden vattenånga i luften|Mängden salt i havet|Hur starkt solen skiner|Hur hårt det blåser
+TROPISK|Vad är regnskog?|Tät, grön skog där det regnar mycket året runt|Skog utan träd|Skog som bara finns nära polerna|Skog där det aldrig regnar
+TROPISK|Vad är en savann?|Gräsmark med enstaka träd|Isområde utan växter|Tät barrskog|Hav med starka strömmar
+TROPISK|Vilka perioder växlar ofta på savannen?|Regnperiod och torrperiod|Bara vinter och höst|Två snöperioder|Fyra lika kalla årstider
+TROPISK|Vilka djur nämns på savannen?|Lejon och elefanter|Isbjörnar och pingviner|Vargar och lodjur|Sälar och valar
+SUBTROPISK|Hur brukar den subtropiska zonen vara?|Varm och ofta torr|Kall och snörik året runt|Alltid mycket fuktig|Alltid under noll grader
+SUBTROPISK|Hur är somrar och vintrar i subtropiska zonen?|Varma somrar och milda vintrar|Korta somrar och iskalla vintrar|Kalla somrar och varma vintrar|Samma kyla hela året
+SUBTROPISK|Vilka klimattyper finns i subtropiska zonen?|Öken-, stäpp- och medelhavsklimat|Regnskogs-, monsun- och savannklimat|Polarklimat och taiga|Bara kust- och inlandsklimat
+SUBTROPISK|Vilken växt nämns som vanlig i subtropisk zon?|Olivträd|Gran|Fjällbjörk|Mossa
+SUBTROPISK|Vad är en öken?|Mycket torrt område med lite eller inga växter|Regnskog med höga träd|Område med frusen mark året runt|Våtmark med mycket regn
+SUBTROPISK|Vad är en stäpp?|Torr slätt med gräs eller buskar men inga träd|Hav med strömmar|Skog nära ekvatorn|Område täckt av inlandsis
+SUBTROPISK|Vad är en oas?|Plats i öken där grundvatten når markytan|Högsta toppen på ett berg|En sorts barrskog|En särskild havsström
+SUBTROPISK|Vad är en sanddyn?|En kulle av sand som vinden har samlat|En bergskedja med snö|En typ av glaciär|En flod i öknen
+SUBTROPISK|Vad kallas stäppområde i Nordamerika?|Prärie|Taiga|Tundra|Regnskog
+SUBTROPISK|Vad är grundvatten?|Vatten som finns i hålrum i marken|Vatten i atmosfären|Vatten i molnen|Vatten som bara finns vid polerna
+TEMPERERAD|Vilken klimatzon ligger Sverige i?|Den tempererade zonen|Den tropiska zonen|Den subtropiska zonen|Polarzonen
+TEMPERERAD|Vad kännetecknar tempererad zon?|Tydliga årstider: vår, sommar, höst och vinter|Bara två årstider, båda regniga|Snö och is hela året|Alltid över 25 grader
+TEMPERERAD|Vilka två undergrupper har tempererad zon?|Kalltempererat och varmtempererat klimat|Öken och regnskog|Monsun och polarnatt|Tundra och inlandsis
+TEMPERERAD|Vad är kalltempererat klimat?|Kallaste månaden är under 0 °C|Kallaste månaden är över 25 °C|Det regnar aldrig|Det finns inga vintrar
+TEMPERERAD|Vad är varmtempererat klimat?|Kallaste månaden är över 0 °C|Kallaste månaden är under -20 °C|Det finns alltid snö|Det saknar årstider
+TEMPERERAD|Vad är kustklimat?|Svala somrar och milda vintrar nära havet|Mycket kalla vintrar och varma somrar långt från havet|Ständig kyla vid polerna|Bara tropiska regn
+TEMPERERAD|Vad är inlandsklimat?|Mycket kalla vintrar och mycket varma somrar långt från kusten|Svala somrar och milda vintrar nära havet|Samma temperatur hela året|Varmt och fuktigt hela året
+TEMPERERAD|Hur är kalltempererade somrar?|Korta och svala|Långa och mycket heta|Regniga hela tiden|Alltid snöiga
+TEMPERERAD|Vilken skog är vanlig i kalltempererade områden?|Barrskog, också kallad taiga|Tropisk regnskog|Savann|Macchia
+TEMPERERAD|Vilka träd dominerar i barrskog?|Tall och gran|Olivträd och citrus|Palmer och bananträd|Inga träd alls
+TEMPERERAD|Vad händer med lövträd på hösten?|De tappar sina löv|De blir barrträd|De täcks alltid av is|De blommar hela vintern
+TEMPERERAD|Vilka är exempel på lövträd i materialet?|Ek, bok och björk|Tall, gran och cypress|Palm, citrus och banan|Enbart mossa och lavar
+POLAR|Var ligger polarzonen?|Vid jordens poler|Vid ekvatorn|Bara runt Medelhavet|Bara i Sydostasien
+POLAR|Hur brukar klimatet vara i polarzonen?|Mycket kallt året runt|Varmt och fuktigt hela året|Varma somrar och milda vintrar|Mycket hett hela året
+POLAR|Vad är Arktis?|Polarområdet vid Nordpolen|Polarområdet vid Sydpolen|Ett ökenområde|En regnskog
+POLAR|Vad är Antarktis?|Polarområdet vid Sydpolen|Polarområdet vid Nordpolen|En havsström|En grässlätt
+POLAR|Vad är polarnatt?|När solen inte når över horisonten under mer än ett dygn|När det regnar dygnet runt|När solen står i zenit|När det är sommar i Europa
+POLAR|Vad är köldöken?|Öken i kalla områden med permafrost eller glaciärer|En tropisk regnskog|En varm stäpp|En odlad åker
+POLAR|Vad är tundra?|Område utan skog med låg vegetation|En tät tropisk skog|En odlad åker|En sorts havsström
+POLAR|Vilka växter kan finnas på tundran?|Mossor, lavar och små buskar|Höga palmer och citrus|Höga regnskogsträd|Bara olivträd
+POLAR|Vad är inlandsis?|Tjock is över ett stort landområde|Vatten under marken|En öken med sand|En stor savann
+POLAR|Vad betyder permafrost?|Mark som är frusen året om|När solen står i zenit|När en havsström byter riktning|När det regnar under sommaren
+POLAR|Vilket folk nämns som boende i Arktis?|Inuiter|Romare|Vikingar|Maya
+VEGETATION|Vad betyder vegetation?|Växtlighet i ett område|Bara djur i ett område|Vindstyrka|Havsvatten
+VEGETATION|Vad är biologisk mångfald?|Artrikedom av växter och djur|När alla odlar samma gröda|När ett område bara har is|När samma djur finns överallt
+VEGETATION|Vad händer med klimatet högre upp på ett berg?|Det blir kallare|Det blir alltid varmare|Ingenting förändras|Det blir alltid mer regn
+VEGETATION|Vad är odlad jord?|Mark som röjts för att odla spannmål, frukt och grönsaker|En isöken|Ett område med enbart lavar|En regnskog
+VEGETATION|Vad är en betesmark?|Mark som används för bete|Ett ställe för inlandsis|Plats där solen står i zenit|En oas
+VEGETATION|Vad är självhushållande jordbruk?|Man odlar det som den egna familjen behöver|Man säljer bara en gröda|Man odlar inte alls|Man flyttar havsvatten
+VEGETATION|Vad är plantagejordbruk?|Stort jordbruk med mycket av en gröda som säljs|Jordbruk för enbart familjen|Jordbruk under inlandsis|Att odla många små grödor i skogen
+VEGETATION|Vad är svedjebruk?|Man bränner skog för att få mark att odla|Man odlar på havsbotten|Man odlar på frusen tundra|Man flyttar betesmark
+VEGETATION|Vad är monokultur?|Man odlar en och samma gröda|Man odlar bara för familjen|Man odlar i ett område med is|Man har många olika grödor
+VEGETATION|Vad är gödselmedel?|Näring som läggs på åkrar för bättre tillväxt|Medel som stoppar all växtlighet|Vatten från havsströmmar|Sand som samlas av vinden
+VEGETATION|Vad är bekämpningsmedel?|Medel mot växter eller djur som kan skada grödor|Medel som skapar regn|Medel som ger midnattssol|Medel som bildar en sanddyn
+VEGETATION|Vad kan issmältning påverka enligt materialet?|Isbjörnar|Olivträd i Spanien|Citrusodlingar|Ekvatorns läge
+VEGETATION|Vad kan ökenspridning hota?|Jordbruk|Polcirklarnas placering|Havsströmmarnas namn|Antarktis läge
